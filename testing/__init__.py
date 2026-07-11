@@ -1,3 +1,5 @@
+# testing/__init__.py
+
 students = [
     (101, "Alice Johnson", "Computer Science"),
     (102, "Bob Smith", "Mathematics"),

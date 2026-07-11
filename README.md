@@ -171,4 +171,13 @@ By mastering **Sequences, List Comprehensions, Generator Expressions, Dictionari
 - Enhance **performance using efficient data structures**.
 - Improve **scalability using structured data management techniques**.
 
-This lab ensures real-world applicability of Python **data structures** in managing dynamic, scalable, and efficient datasets.
+This lab ensures real-world applicability of Python **data structures** in managing dynamic, scalable, and efficient datasets
+
+How to Run and Verify
+Ensure you are in your virtual environment (pipenv shell).
+sudo apt install python3-pytest
+then run 
+   pytest -x
+   git add .
+   git commit -am "Implement student filtering and set operations"
+   git push origin <branch-name>
